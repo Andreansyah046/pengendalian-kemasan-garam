@@ -1,4 +1,4 @@
-# spk-metode-saw-php
+# Sistem Informasi Pengendalian kemasan garam 
 
 
-Aplikasi Sistem Pedukung Keputusan (SPK) pemilihan supplier dengan menggunakan metode SAW (Simple Additive Weighting) berbasis web, menggunakan bahasa pemograman PHP
+aplikasi berbasis web yang digunakan untuk membantu proses pengendalian kualitas dan pengambilan keputusan dalam pengemasan produk garam, sehingga proses pengelolaan data dan evaluasi dapat dilakukan secara efektif dan efisien.
